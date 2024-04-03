@@ -2,7 +2,7 @@
 
 ## I am Joshua Kirabo, A software Engineer Based in Phoenix, Arizona
 
-# My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
+### My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
 
 <!--
 **JoshuaKirabo/JoshuaKirabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+Hi there 👋🏽
 
 ## I am Joshua Kirabo, A software Engineer Based in Phoenix, Arizona
 

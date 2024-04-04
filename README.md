@@ -6,7 +6,7 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 
 Languages
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+[C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -17,7 +17,6 @@ Languages
 ![VHDL](https://img.shields.io/badge/-VHDL-007ACC?style=flat&logo=VHDL&logoColor=white)
 
 Frameworks/Technologies 
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -27,6 +26,15 @@ Frameworks/Technologies
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat&logo=opengl&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+Other Developer Tools
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+
+GitHubStats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
 

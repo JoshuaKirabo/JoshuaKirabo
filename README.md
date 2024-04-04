@@ -1,10 +1,10 @@
-Hi there 👋🏽
+##Hi there 👋🏽
 
-I am Joshua Kirabo, A software Engineer Based in Phoenix, Arizona
+##I am Joshua Kirabo, A software Engineer Based in Phoenix, Arizona
 
 My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
 
-Languages:
+##Languages:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -16,7 +16,7 @@ Languages:
 ![Verilog](https://img.shields.io/badge/-Verilog-007ACC?style=flat&logo=Verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-007ACC?style=flat&logo=VHDL&logoColor=white)
 
-Frameworks/Technologies:
+##Frameworks/Technologies:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -30,7 +30,7 @@ Frameworks/Technologies:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-Other Developer Tools:
+##Other Developer Tools:
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
@@ -40,17 +40,17 @@ Other Developer Tools:
 ![TagLib](https://img.shields.io/badge/TagLib-000000?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Connect with me:
+##Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kisaku-kirabo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaKirabo)
 
 
 
 
-GitHubStats
+##GitHubStats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 

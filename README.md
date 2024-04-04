@@ -50,8 +50,11 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 
 
 
-##GitHubStats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKirabo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

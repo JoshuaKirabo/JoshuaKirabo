@@ -1,17 +1,12 @@
 ## Hi there 👋🏽
 
-## I am Joshua Kirabo, A software Engineer Based in Phoenix, Arizona
+## I am Joshua Kirabo, A Software Engineer Based in Phoenix, Arizona
 
 My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
 
 ## Languages:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
-
-
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -20,6 +15,10 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-007ACC?style=flat&logo=Verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-007ACC?style=flat&logo=VHDL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![(https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]
+
+
 
 ## Frameworks/Technologies:
 
@@ -48,9 +47,10 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kisaku-kirabo/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaKirabo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuak2001@example.com)
 
 
 

@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 
-## I am Joshua Kirabo, A Software Engineer Based in Phoenix, Arizona
+## I am Joshua Kirabo, A Software Engineer Based in Phoenix, Arizona 🌵
 
 My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
 
@@ -52,7 +52,7 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaKirabo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuak2001@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuak2001@gmail.com)
 
 
 
@@ -61,21 +61,6 @@ My realm extends beyond mere code into the architecture of digital experiences. 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKirabo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaKirabo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
-
-<!--
-**JoshuaKirabo/JoshuaKirabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

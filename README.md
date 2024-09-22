@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 
-## I am Joshua Kirabo, A Software Engineer Based in Phoenix, Arizona 🌵
+## I am Joshua Kirabo, A Software Engineer Based in Gilbert, Arizona 🌵
 
 My realm extends beyond mere code into the architecture of digital experiences. I'm here to craft not just software, but solutions that resonate with users, embodying your mission and values. My goal is to engineer platforms and applications that not only reflect who you are but also engage and inspire your audience at every interaction
 

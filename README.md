@@ -2,7 +2,8 @@
 
 ## I am Joshua Kirabo, A Software Engineer Based in Gilbert, Arizona 🌵
 
-I’m not just about writing code—I’m all about building AI-driven solutions that make an impact. I lean heavily into the AI space, creating intelligent, adaptive systems that don’t just work but actually resonate with users. My goal is to build platforms and applications that go beyond functionality, engaging and inspiring people with every interaction.
+I’m not just about writing code! I’m all about building AI-driven solutions that make an impact. I lean heavily into the AI space, creating intelligent, adaptive systems that don’t just work but actually resonate with users. 
+My goal is to build platforms and applications that go beyond functionality, engaging and inspiring people with every interaction.
 
 ## Languages:
 

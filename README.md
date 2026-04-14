@@ -58,5 +58,10 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 
 ## GitHub Stats
+## This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaKirabo&theme=dark&background=000000)](https://git.io/streak-stats)
 

@@ -54,11 +54,23 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kisaku-kirabo/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaKirabo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuak2001@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" />
+  </a>
+  <a href="https://github.com/JoshuaKirabo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
+  <a href="https://github.com/JoshuaKirabo" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="48" height="48" />
+  </a>
+  <a href="mailto:joshuak2001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
+  </a>
+</p>
 
 
 ## GitHub Stats

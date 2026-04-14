@@ -70,9 +70,5 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKirabo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaKirabo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true&theme=transparent)
 

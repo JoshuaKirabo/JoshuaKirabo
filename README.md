@@ -54,7 +54,7 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 ## Connect with me:
 
-<p>
+
   <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a><a href="https://twitter.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
@@ -66,7 +66,7 @@ My goal is to build platforms and applications that go beyond functionality, eng
   </a><a href="mailto:joshuak2001@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
   </a>
-</p>
+
 
 
 ## GitHub Stats

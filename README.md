@@ -64,8 +64,8 @@ My goal is to build platforms and applications that go beyond functionality, eng
   <a href="https://github.com/JoshuaKirabo" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
   </a>
-  <a href="https://github.com/JoshuaKirabo" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="48" height="48" />
+   <a href="https://github.com/JoshuaKirabo" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/domain/white.png" alt="Portfolio" width="48" height="48" />
   </a>
   <a href="mailto:joshuak2001@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />

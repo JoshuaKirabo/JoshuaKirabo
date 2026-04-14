@@ -1,9 +1,7 @@
 ## Hi there 👋🏽
 
 ## I am Joshua Kirabo, A Software Engineer Based in Gilbert, Arizona 🌵
-
-I’m not just about writing code! I’m all about building AI-driven solutions that make an impact. I lean heavily into the AI space, creating intelligent, adaptive systems that don’t just work but actually resonate with users. 
-My goal is to build platforms and applications that go beyond functionality, engaging and inspiring people with every interaction.
+I mainly build backend systems and enjoy using code to solve everyday problems. Recently, I’ve been getting deeper into AI and looking at how it can help make those solutions even better and more useful in the real world.
 
 ## Languages:
 
@@ -58,10 +56,5 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 
 ## GitHub Stats
-## This week I spent my time on
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaKirabo&theme=dark&background=000000)](https://git.io/streak-stats)
 

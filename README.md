@@ -54,20 +54,16 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 ## Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  </a><a href="https://twitter.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" />
-  </a>
-  <a href="https://github.com/JoshuaKirabo" target="_blank">
+  </a><a href="https://github.com/JoshuaKirabo" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a>
-   <a href="https://github.com/JoshuaKirabo" target="_blank">
-  <img src="./portfolio_icon.png" alt="Portfolio" width="48" height="48" />
-</a>
-  <a href="mailto:joshuak2001@gmail.com">
+  </a><a href="https://github.com/JoshuaKirabo" target="_blank" style="text-decoration:none;">
+    <img src="./portfolio_icon.png" alt="Portfolio" width="48" height="48" />
+  </a><a href="mailto:joshuak2001@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
   </a>
 </p>
@@ -75,7 +71,8 @@ My goal is to build platforms and applications that go beyond functionality, eng
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKirabo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKirabo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaKirabo&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKirabo&show_icons=true&theme=transparent)
 

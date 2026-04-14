@@ -53,19 +53,7 @@ My goal is to build platforms and applications that go beyond functionality, eng
 <br/>
 
 ## Connect with me:
-
-
-  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a><a href="https://twitter.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" />
-  </a><a href="https://github.com/JoshuaKirabo" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a><a href="https://github.com/JoshuaKirabo" target="_blank" style="text-decoration:none;">
-    <img src="./portfolio_icon.png" alt="Portfolio" width="48" height="48" />
-  </a><a href="mailto:joshuak2001@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
-  </a>
+<p><a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" hspace="4" /></a><a href="https://twitter.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" hspace="4" /></a><a href="https://github.com/JoshuaKirabo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" hspace="4" /></a><a href="https://github.com/JoshuaKirabo"><img src="./portfolio_icon.png" alt="Portfolio" width="48" height="48" hspace="4" /></a><a href="mailto:joshuak2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" hspace="4" /></a></p>
 
 
 

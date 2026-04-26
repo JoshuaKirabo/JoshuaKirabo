@@ -52,7 +52,7 @@ I mainly build backend systems and enjoy using code to solve everyday problems. 
 
 ## Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" hspace="4" />Linkedin</a>
+  <a href="https://www.linkedin.com/in/joshua-kisaku-kirabo/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" hspace="4" /></a>
   <a href="https://github.com/JoshuaKirabo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" hspace="4" /></a>
   <a href="https://github.com/JoshuaKirabo"><img src="./portfolio_icon.png" alt="Portfolio" width="48" height="48" hspace="4" /></a>
   <a href="mailto:joshuak2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" hspace="4" /></a>
